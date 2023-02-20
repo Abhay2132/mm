@@ -1,0 +1,12 @@
+body {
+	margin: 0;
+}
+
+#game {
+	height: var(--ih, 100vh);
+	width: var(--iw, 100%);
+	
+	position: fixed;
+	
+	background: 0;
+}
